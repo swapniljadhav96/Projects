@@ -67,8 +67,12 @@ This project simulates a basic social network with functionalities such as frien
    git clone <repository-url>
    cd <repository-directory>
 
-2. Compile the code:  ```bash g++ -std=c++17 main.cpp -o system_simulation
-3. Run the program::  ```bash ./system_simulation
+2. Compile the code:
+   ```bash
+   g++ -std=c++17 main.cpp -o system_simulation
+3. Run the program:
+   ```bash
+   ./system_simulation
 
 
 ## Usage
